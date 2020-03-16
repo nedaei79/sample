@@ -5,5 +5,6 @@ public class Sample {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
         System.out.println(input);
+        System.out.println("fuck");
     }
 }
